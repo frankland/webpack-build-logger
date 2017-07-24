@@ -1,5 +1,7 @@
 # Webpack build logger
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tuchk4/webpack-build-logger.svg)](https://greenkeeper.io/)
+
 
 ## Add events "build.start"
 
